@@ -103,19 +103,3 @@ define('WP_DEBUG_DISPLAY', false);
 
 📜 License
 This project is licensed under the MIT License.
-
-📩 Contact
-For questions or issues, reach out to the UNB BSS Voting Committee.
-
-
-
----
-
-### **What's New in This Version?**
-✔️ **Improved descriptions** for clarity  
-✔️ **Enhanced security explanations** 🔒  
-✔️ **Well-structured table descriptions** 📊  
-✔️ **Better formatting for readability** 📖  
-✔️ **More engaging visuals (GIFs & badges)** 🎨  
-
-This version makes your **GitHub `README.md` look professional, clean, and informative**! 🚀 Let me know if you need any further modifications. 😊🔥
